@@ -8,7 +8,7 @@ This repository contains C programs that implement various CPU Scheduling Algori
 Non-preemptive.
 
 Processes are executed in the order they arrive.
-
+ 
 Simple to implement but may cause the convoy effect.
 
 2️⃣ SJF (Shortest Job First)
